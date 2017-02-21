@@ -1,0 +1,5 @@
+/**/node_modules
+/**/.vscode
+/**/*.VC.db
+/examples/**/package.json
+.env
